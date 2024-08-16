@@ -39,3 +39,6 @@ Developing a systematic approach to reports
 
 
 ![image alt](https://github.com/Saitharun045/AtliQ-Hardware-Sales-Analytics/blob/d84980577284b5d6e60421c8ffac842462186f5b/Customer_Performance.png)
+
+
+![image alt](https://github.com/Saitharun045/AtliQ-Hardware-Sales-Analytics/blob/2204993a0768f08d0acba9e83071da317bda5876/Customer_Performance_1.png)
