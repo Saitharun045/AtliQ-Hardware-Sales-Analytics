@@ -24,7 +24,7 @@ Technical Skills:
 
 Proficiency in ETL (Extract, Transform, Load).
 Knowledge to created date table using Power Query.
-Advance data modelling like power pivot to establish relationships across tables
+Advance data modelling like power pivot to establish relationships across tables by STAR SCHEME Method
 Ability to derives fiscal months and quarters.
 Using DAX to create calculated columns.
 Pivot table to analyze 
