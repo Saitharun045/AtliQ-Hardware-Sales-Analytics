@@ -35,3 +35,7 @@ Design User Empathetic Reports
 Good understanding of Sales & Finance Domain Refined understanding of Finance & Sales Reports
 Optimization of report by fine-tuning.
 Developing a systematic approach to reports
+
+
+
+![image alt](https://github.com/Saitharun045/AtliQ-Hardware-Sales-Analytics/blob/d84980577284b5d6e60421c8ffac842462186f5b/Customer_Performance.png)
