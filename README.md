@@ -1,4 +1,4 @@
-Atliq-Hardware-Sales-Analytics
+Atliq-Hardware-Sales-Finance-Analytics
 
 About:
    AtliQ Hardwares
@@ -8,7 +8,7 @@ About:
 
 Problem Statement:
 
-🔹 To create a Sales and Finance report to improve the Gross Margin and overall Net Sales for the Company
+🔹 To create a Sales and Finance report to improve the Net Sales and Profit Margin(Gross Margin) for the Company
 
 Sales Analytics
 
